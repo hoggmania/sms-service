@@ -17,7 +17,7 @@
     <mockk.version>1.9.3</mockk.version>
     <nimbus-jose-jwt.version>8.20</nimbus-jose-jwt.version>
     <twilio.version>7.12.0</twilio.version>
-    <wiremock-jre8.version>2.27.0</wiremock-jre8.version>
+    <wiremock-jre8.version>2.35.1</wiremock-jre8.version>
   </properties>
   <dependencyManagement>
     <dependencies>
